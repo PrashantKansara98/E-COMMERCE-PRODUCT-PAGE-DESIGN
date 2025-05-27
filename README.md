@@ -39,3 +39,13 @@ Clear hierarchy and typography.
 
 🧩 Tools Used
 Figma – For wireframing and high-fidelity UI design.
+
+
+
+
+![MacBook Pro 14_ - 1](https://github.com/user-attachments/assets/9e0478f8-c7de-4cf5-8256-f1203404d7e6)
+
+![image](https://github.com/user-attachments/assets/e75bed95-0bca-43af-b6b9-b5911c434919)
+
+![image](https://github.com/user-attachments/assets/faee2670-d537-4f12-983e-7f1b1f31bda3)
+
